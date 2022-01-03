@@ -83,3 +83,24 @@ html{
     margin:0 25%;
     font-size: 1.8rem;
 }
+
+
+
+
+
+/* ========================= Footer  Section Style Start Here ========================= */
+
+#footer{
+    padding:5rem 8%;
+}
+#footer .footerTittle{
+    text-align: center;
+}
+#footer .footerTittle h1{
+    font-size: 3.5rem;
+    margin-bottom: 1.5rem;
+}
+#footer .footerTittle p{
+    margin:0 25%;
+    font-size: 1.8rem;
+}
