@@ -78,10 +78,12 @@ html{
 #services .serviceTittle h1{
     font-size: 3.5rem;
     margin-bottom: 1.5rem;
+    color:deeppink;
 }
 #services .serviceTittle p{
     margin:0 25%;
     font-size: 1.8rem;
+    color:deepskyblue;
 }
 
 
@@ -99,8 +101,39 @@ html{
 #footer .footerTittle h1{
     font-size: 3.5rem;
     margin-bottom: 1.5rem;
+    color:cyan;
 }
 #footer .footerTittle p{
     margin:0 25%;
     font-size: 1.8rem;
+    color: darkmagenta;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ========================= BranchToogle  Section Style Start Here ========================= */
+
+.branchToogle{
+    padding:5rem 8%;
+}
+.branchToogle .toogleTittle{
+    text-align: center;
+}
+.branchToogle .toogleTittle h1{
+    font-size: 3.5rem;
+    margin-bottom: 1.5rem;
+    color:red;
+}
+.branchToogle .toogleTittle p{
+    margin:0 25%;
+    font-size: 1.8rem;
+    color:darkorange
 }
