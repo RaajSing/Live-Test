@@ -14,15 +14,18 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(6, 173, 157, 0.5);
     flex-direction: column;
+    background: linear-gradient(rgba(255, 0, 0, 0.39), rgba(252, 144, 42, 0.315)), url("images/bg.jpg");
+    background-position: center center;
+    height: 70vh;
 }
 #banner h1{
     margin-bottom: 1.5rem;
     font-size: 4.5rem;
-    color: tomato;
+    color: rgb(79, 248, 158);
 }
 #banner p{
     font-size: 2rem;
     margin:0 20%;
+    color:turquoise;
 }
