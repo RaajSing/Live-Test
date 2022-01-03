@@ -7,6 +7,36 @@ html{
     font-size: 62.5%;
     overflow-x: hidden;
 }
+/* ======================== Header Section Style Start here ============================== */
+#header{
+    padding:2rem 8%;
+    background: skyblue;
+}
+#header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header nav .logo{
+    font-size: 2.2rem;
+}
+#header nav ul{
+    list-style: none;
+}
+#header nav ul li{
+    display: inline-block;
+    margin:0 1rem;
+}
+#header nav ul li a{
+    text-decoration: none;
+    font-size: 1.8rem;
+    color:#fb3200;
+}
+
+
+
+
+
 /* ======================== Banner Section Style Start here ============================== */
 #banner{
     text-align: center;
