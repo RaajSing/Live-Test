@@ -17,7 +17,7 @@ html{
     flex-direction: column;
     background: linear-gradient(rgba(255, 0, 0, 0.39), rgba(252, 144, 42, 0.315)), url("images/bg.jpg");
     background-position: center center;
-    height: 70vh;
+    height: 75vh;
 }
 #banner h1{
     margin-bottom: 1.5rem;
